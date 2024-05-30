@@ -1,0 +1,7 @@
+[submodule "lom"]
+    path = lom
+    url = git@github.com:KosenkovRuslan/mam_lom.git
+	
+[submodule "counter"]
+    path = counter
+    url = git@github.com:KosenkovRuslan/mam_counter.git
