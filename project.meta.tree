@@ -1,2 +1,2 @@
-pack lom \https://github.com/KosenkovRuslan/mam_lom.git
-pack counter \https://github.com/KosenkovRuslan/mam_counter.git
+pack lom git \https://github.com/KosenkovRuslan/mam_lom.git
+pack counter git \https://github.com/KosenkovRuslan/mam_counter.git
